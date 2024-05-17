@@ -1,3 +1,5 @@
 manim
 Jinja2
 pytorch
+tkinter
+customtkinter
